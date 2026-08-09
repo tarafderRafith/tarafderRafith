@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarafder Md. Rafith</h1>
+<h1 align="center">Hello, I'm Tarafder Md. Rafith</h1>
 
 <h3 align="center">
 Computer Science Student | Software Developer | Tech Enthusiast
