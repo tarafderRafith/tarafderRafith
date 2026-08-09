@@ -8,9 +8,18 @@ Computer Science Student | Software Developer | An Engineer
   <img src="https://komarev.com/ghpvc/?username=taraferRafith&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
-def init_developer():
-    name = "Rafith Tarafder"
-    university = "American International University-Bangladesh"
-    field = "Computer Science & Engineering"
-    focus = ["Software Engineering", "App Development", "Web Development"]
-    currently_learning = ["C#", ".NET", "Flutter", "React"]
+
+<p align="center">
+  <a href="https://www.facebook.com/rafithtarafder">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+ 
+  <a href="https://www.linkedin.com/in/rafith-tarafder-7491a72a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:tarafderrafith@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
