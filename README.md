@@ -52,6 +52,13 @@
 </p>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarafderRafith&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" width="90%" />
+
+</td> </tr> </table> <p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=600&color=00F7FF&center=true&vCenter=true&width=650&lines=Scanning+repositories...;Detecting+languages...;Analyzing+codebase...;Language+profile+loaded" alt="Language Detection" />
+
+</p>
 
 # ABOUT ME
 
@@ -76,3 +83,5 @@
 │  └── AI & Automation                │
 │                                     │
 └─────────────────────────────────────┘
+
+
