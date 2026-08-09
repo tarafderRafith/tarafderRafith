@@ -14,17 +14,7 @@
 
 ---
 
-## ABOUT ME
 
-<p align="center">
-  Computer Science Engineer · Software Developer · Problem Solver
-</p>
-
-<p align="center">
-  I enjoy building software, learning new technologies, and solving problems through code.
-</p>
-
----
 
 ## LANGUAGES
 
