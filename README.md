@@ -14,17 +14,6 @@
 
 ---
 
-## ABOUT ME
-
-<p align="center">
-
-Computer Science Engineer  
-Software Developer  
-Problem Solver & Technology Enthusiast
-
-</p>
-
----
 
 ## MOST USED LANGUAGES
 
