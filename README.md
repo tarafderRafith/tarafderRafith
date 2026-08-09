@@ -16,12 +16,12 @@
 
 
 
-## MOST USED LANGUAGES
+## Languages
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tarafderRafith&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
-    width="450"
-    alt="Most Used Languages"
-  />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,python,php" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarafderRafith&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
