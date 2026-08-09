@@ -16,17 +16,12 @@
 
 
 
-## LANGUAGES
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,html,python,php" />
-
-</p>
+## MOST USED LANGUAGES
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1800&pause=700&color=7B2FFF&center=true&vCenter=true&width=550&height=30&lines=C%2B%2B+%7C+C%23+%7C+JavaScript+%7C+HTML+%7C+Python+%7C+PHP"
-    alt="Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tarafderRafith&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    width="450"
+    alt="Most Used Languages"
   />
 </p>
