@@ -26,3 +26,7 @@
     alt="Languages & Technologies"
   />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,python,php,java,mysql,flutter" />
+</p>
