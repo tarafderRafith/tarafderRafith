@@ -13,7 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,python,php,java,mysql,flutter" />
+  <img
+    src="https://skillicons.dev/icons?i=cpp,cs,js,html,python,php,java,mysql,flutter"
+  />
 </p>
 
 <p align="center">
@@ -23,27 +25,54 @@
   />
 </p>
 
-<h2 align="center">🌐 Connect With Me</h2>
+<br>
+
+<!-- ==================== CONNECT ==================== -->
+
+<h2 align="center">⚡ Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.facebook.com/rafithtarafder" target="_blank">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=30&lines=Have+a+project+in+mind%3F;Let's+build+something+amazing+together!;Always+open+to+new+opportunities"
+    alt="Connect Animation"
+  />
+</p>
+
+<br>
+
+<p align="center">
+
+  <a href="mailto:work.tarafderrafith@gmail.com">
     <img
-      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      src="https://img.shields.io/badge/Email-Send Me Your Message-1877F2?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://www.facebook.com/rafithtarafder">
+    <img
+      src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
       alt="Facebook"
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/rafith-tarafder-7491a72a8/" target="_blank">
+  <a href="https://www.linkedin.com/in/rafith-tarafder-7491a72a8/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
 
-  <a href="https://tarafderrafith.github.io/My_Protfolio/" target="_blank">
+  <a href="https://tarafderrafith.github.io/My_Protfolio/">
     <img
-      src="https://img.shields.io/badge/Portfolio-7B2FFF?style=for-the-badge&logo=googlechrome&logoColor=white"
+      src="https://img.shields.io/badge/Portfolio-Visit-7B2FFF?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Portfolio"
     />
   </a>
+
 </p>
+
+<br>
+
+<!-- ==================== PROFILE LINKS ==================== -->
+
