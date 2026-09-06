@@ -44,7 +44,7 @@
 
   <a href="mailto:work.tarafderrafith@gmail.com">
     <img
-      src="https://img.shields.io/badge/Email-Send Me Your Message-1877F2?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-Send Me Your Message-FF0000?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
     />
   </a>
